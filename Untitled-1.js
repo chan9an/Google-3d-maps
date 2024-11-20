@@ -34,7 +34,7 @@
           }));
         d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n));
       })({
-        key: "AIzaSyAhQ1VTTYEwbYEjcEqCC_Pbava-WYjCim4",
+        key: "API",
         v: "alpha",
       });
 
